@@ -5,7 +5,7 @@
   </br><code>🎵 I can't help myself Think I'm going to hell I'll probably never leave 🎵</code>
 </p>
 
-</br><code> href="Rek naon Sia Kadieu,punten²we da sim aingmah</code>
-</br><code> Teu barisa Kana nu karieu teh, repo didiemah</code>
-</br><code> Hasil fork Kabeh tara nyieun</code>
+</br><code>👻 Rek naon Sia Kadieu,punten²we da sim aingmah</code>
+</br><code>🙏 Teu barisa Kana nu karieu teh, repo didiemah</code>
+</br><code>🖐️ Hasil fork Kabeh tara nyieun</code>
 </p>
