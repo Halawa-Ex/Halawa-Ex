@@ -5,7 +5,7 @@
   </br><code>🎵 I can't help myself Think I'm going to hell I'll probably never leave 🎵</code>
 </p>
 
-* <h1 aligh= Rek naon Sia Kadieu,punten²we da sim aingmah *
-* Teu barisa Kana nu karieu teh aingmah, repo didiemah *
-* Hasil fork Kabeh lurd Eweh NU Unik *
+** Rek naon Sia Kadieu,punten²we da sim aingmah **
+** Teu barisa Kana nu karieu teh aingmah, repo didiemah **
+** Hasil fork Kabeh lurd Eweh NU Unik **
 
