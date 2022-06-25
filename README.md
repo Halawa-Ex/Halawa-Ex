@@ -5,4 +5,5 @@
   </br><code>🎵 I can't help myself Think I'm going to hell I'll probably never leave 🎵</code>
 </p>
 
-<*> Semua tepi disini Hasil fork gak bisa buat bang
+ •Semua tepi disini Hasil fork, gak bisa buat bang.
+
