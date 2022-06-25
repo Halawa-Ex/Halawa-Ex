@@ -5,7 +5,4 @@
   </br><code>🎵 I can't help myself Think I'm going to hell I'll probably never leave 🎵</code>
 </p>
 
-** Rek naon Sia Kadieu,punten²we da sim aingmah **
-** Teu barisa Kana nu karieu teh aingmah, repo didiemah **
-** Hasil fork Kabeh lurd Eweh NU Unik **
-
+<*> Semua tepi disini Hasil fork gak bisa buat bang
